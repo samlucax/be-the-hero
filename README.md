@@ -1,11 +1,8 @@
-# Be The Hero
+<p align="center"><img src="frontend/src/assets/heroes.png" width="50%"/></p>
 
+<h1 align="center">Be The Hero</h1>
+<p align="center">Projeto desenvolvido durante a <i>Semana OmniStack 11, da RocketSeat</i></p>
 
-Projeto desenvolvido durante a *Semana OmniStack 11, da RocketSeat* .
-
-- **Backend**: Desenvolvido em Node com Express, SQLite e Knex
-- **Frontend**: Desenvolvido em React, com Axios, React Router Dom e libs auxiliares
-- **Mobile**: Desenvolvido em React Native & Expo, com Axios, React Navigation e libs auxiliares
 
 ## Sobre o projeto
 
@@ -21,6 +18,11 @@ Qualquer pessoa com acesso ao aplicativo pode visualizar os casos registrados pe
 
 > *Este projeto pode ser parametrizado e ajustado para outros tipos de organizações, assim como adaptado em termos de design, fluxo e funcionalidades.*
 
+## Stack (javascript)
+
+- **Backend**: Desenvolvido em Node com Express, SQLite e Knex
+- **Frontend**: Desenvolvido em React, com Axios, React Router Dom e libs auxiliares
+- **Mobile**: Desenvolvido em React Native & Expo, com Axios, React Navigation e libs auxiliares
 
 ## Para executar o projeto
 ```
@@ -36,7 +38,7 @@ yarn start
 ```
 > Obs.: caso esteja executando o projeto mobile em seu dispositivo físico, insira o IP da máquina ou servidor em que o backend está sendo executado, no arquivo `mobile/src/services/api.js` 
 
-## Algumas notes sobre o projeto
+## Algumas *notas* sobre o projeto
 
 ### Start & Backend
 - github.com/facebook/create-react-app
